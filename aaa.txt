@@ -1,5 +1,9 @@
 aaa
 bbb
+<<<<<<< HEAD
 333
+=======
+444
+>>>>>>> another
 ccc
 eee
